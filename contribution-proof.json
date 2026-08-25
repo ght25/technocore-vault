@@ -1,0 +1,7 @@
+{
+  "schema": "technocore-contribution-proof-v1",
+  "did": "did:key:z6MkkRn83csjWsxyptDMpyAQJ2FpY4zt82c1rKLy38Wu9tpX",
+  "artifact_url": "https://github.com/ght25/technocore-vault",
+  "commit": "5bda5967ef875b8eb076d90795c56f9ec1e552d3",
+  "signature": "KWdDmzbZNkMWFAA7KtQ6U7KRi84HmzkhtS6GwBUnaWfKgVK9250ApYzYkW8focHWKPs5ltok6YZstvSXy8YRDg"
+}
